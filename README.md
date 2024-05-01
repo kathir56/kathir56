@@ -1,16 +1,33 @@
-### Hi there 👋 
+# Hi there, I'm Kathir! 👋
 
-<!--
-**kathir56/kathir56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate iOS developer with 1.5yrs of experience creating delightful and efficient mobile applications. I love turning ideas into beautifully designed and functional iOS apps that users love.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on **Netflix Clone**, where I'm replicating all the features of Netflix.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning **VisonOS**, and I'm excited to incorporate it into my future projects.
+
+💼 I'm open to freelance opportunities and collaborations on interesting iOS projects. Feel free to reach out to me via [email](mailto:your.akathir2004@gmail.com)!
+
+## Skills
+- **Languages**: Proficient – Swift, Python; Familiar – Java, C++, Metal Shading Language(MSL)
+- **Platforms**: iOS, iPadOS, macOS, watchOS, tvOS
+- **Frameworks**: SwiftUI & UIKit
+- **Databases**: CoreData, SwiftData, Firebase
+- **Tools**: Xcode, Git, CocoaPods, Swift Package Manager
+- **Other**: RESTful APIs, JSON, Auto Layout, TestFlight
+
+
+
+## Get in Touch
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
+- Email: [my.email@example.com](mailto:your.akathir2004@gmail.com)
+
+Feel free to connect with me! I'm always open to discussing new projects, ideas, or opportunities.
+
+## Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kathir56&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathir56&layout=compact&theme=dark)](https://github.com/kathir56)
+
