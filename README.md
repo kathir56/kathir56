@@ -1,6 +1,6 @@
 
-//![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
+<!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+-->
 # Hi there, I'm Kathir! 👋
 
 I'm a passionate iOS developer with 1.5yrs of experience creating delightful and efficient mobile applications. I love turning ideas into beautifully designed and functional iOS apps that users love.
