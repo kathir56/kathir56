@@ -47,7 +47,7 @@ Feel free to connect with me! I'm always open to discussing new projects, ideas,
 ![](https://github-profile-trophy.vercel.app/?username=kathir56&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-[![](https://visitcount.itsvg.in/api?id=kathir56&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=kathir56&icon=0&color=0)](https://visitcount.itsvg.in)--->
 
 
 
